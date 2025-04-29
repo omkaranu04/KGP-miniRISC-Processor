@@ -1,0 +1,101 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_Divide.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Divide
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_Ham.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Ham
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_Multiply.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Multiply
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_Subtractor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Subtractor
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/AND_8Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_AND
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/Adder_2Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder_2Bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/Adder_3Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder_3Bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/Full_Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/MUX_16to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_16to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/MUX_2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/MUX_4to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_4to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/MUX_8to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_8to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/NEG_8Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_NEGATION
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/OR_8Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_OR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/Twos_Complement.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Twos_Complement
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/XOR_8Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_XOR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_Barrel_Left.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Barrel_Left
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_Barrel_Right.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Barrel_Right
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_Barrel_Arith_Right.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Barrel_Arithmetic_Right
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/Register_Bank.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterBank
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ControlPath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlPath
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/Master_Interface.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Master_Interface
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_SLT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_SLT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_NOR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_NOR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_SGT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_SGT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_LUI.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_LUI
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/ALU_HAM_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_HAM_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/clock_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sources_1/new/reg_out_fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Adder_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Adder_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Barrel_Shift_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Barrel_Shift_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Dec4_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Dec4_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Divide_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Divide_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Ham_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Ham_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Inc4_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Inc4_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Multiply_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Multiply_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Shift_Left_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Shift_Left_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Shift_Right_Arithmetic_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Shift_Right_Arithmetic_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Shift_Right_Logical_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Shift_Right_Logical_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Subtractor_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Subtractor_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_Barrel_Left_TB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_ALU_Barrel_Left
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/master_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_Master_Interface
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_HAM_32_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_HAM_32_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_NOR_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_NOR_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_SLT_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_SLT_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_SGT_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_SGT_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Third Year/COA Lab/COA Final Shit/RISC_Customized_ALU_Submission/RISC_Customized_ALU_Submission/Reg_Bank_and_ALU_Lab_Submission.srcs/sim_1/new/ALU_LUI_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_LUI_tb

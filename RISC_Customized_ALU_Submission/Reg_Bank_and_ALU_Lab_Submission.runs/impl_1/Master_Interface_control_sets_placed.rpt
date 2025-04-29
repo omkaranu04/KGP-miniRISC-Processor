@@ -1,0 +1,98 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.1.1 (win64) Build 2960000 Wed Aug  5 22:57:20 MDT 2020
+| Date         : Wed Oct 16 16:17:37 2024
+| Host         : HWLAB07 running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file Master_Interface_control_sets_placed.rpt
+| Design       : Master_Interface
+| Device       : xc7a100t
+---------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |    20 |
+|    Minimum number of control sets                        |    20 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |    16 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |    20 |
+| >= 0 to < 4        |     2 |
+| >= 4 to < 6        |     0 |
+| >= 6 to < 8        |     0 |
+| >= 8 to < 10       |     0 |
+| >= 10 to < 12      |     0 |
+| >= 12 to < 14      |     0 |
+| >= 14 to < 16      |     0 |
+| >= 16              |    18 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |               1 |            1 |
+| No           | No                    | Yes                    |               3 |            2 |
+| No           | Yes                   | No                     |              28 |            7 |
+| Yes          | No                    | No                     |              64 |           64 |
+| Yes          | No                    | Yes                    |             512 |          234 |
+| Yes          | Yes                   | No                     |               0 |            0 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------+------------------------------------------------+------------------+------------------+----------------+--------------+
+|  Clock Signal  |                  Enable Signal                 | Set/Reset Signal | Slice Load Count | Bel Load Count | Bels / Slice |
++----------------+------------------------------------------------+------------------+------------------+----------------+--------------+
+|  clk_IBUF_BUFG |                                                |                  |                1 |              1 |         1.00 |
+|  clk_slow_BUFG |                                                | rst_IBUF         |                2 |              3 |         1.50 |
+|  clk_IBUF_BUFG |                                                | clk_div/clear    |                7 |             28 |         4.00 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_6[0]  | rst_IBUF         |               14 |             32 |         2.29 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_7[0]  | rst_IBUF         |               14 |             32 |         2.29 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_0[0]  | rst_IBUF         |               17 |             32 |         1.88 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_1[0]  | rst_IBUF         |               15 |             32 |         2.13 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_3[0]  | rst_IBUF         |               14 |             32 |         2.29 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_4[0]  | rst_IBUF         |               11 |             32 |         2.91 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_14[0] | rst_IBUF         |               17 |             32 |         1.88 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_11[0] | rst_IBUF         |               17 |             32 |         1.88 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_10[0] | rst_IBUF         |               11 |             32 |         2.91 |
+|  clk_slow_BUFG | display_bits_fsm/E[0]                          | rst_IBUF         |               18 |             32 |         1.78 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_2[0]  | rst_IBUF         |               15 |             32 |         2.13 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_5[0]  | rst_IBUF         |               14 |             32 |         2.29 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_8[0]  | rst_IBUF         |               14 |             32 |         2.29 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_13[0] | rst_IBUF         |               15 |             32 |         2.13 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_9[0]  | rst_IBUF         |               15 |             32 |         2.13 |
+|  clk_slow_BUFG | display_bits_fsm/FSM_onehot_state_reg[0]_12[0] | rst_IBUF         |               13 |             32 |         2.46 |
+| ~clk_slow_BUFG | display_bits_fsm/Q[0]                          |                  |               64 |             64 |         1.00 |
++----------------+------------------------------------------------+------------------+------------------+----------------+--------------+
+
+
